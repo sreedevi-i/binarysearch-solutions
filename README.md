@@ -4,3 +4,4 @@ Here are some of my solutions from the website www.binarysearch.com in Java Prog
 My profile name:sree-devi
 # Problems that are solved are:
 1. Transpose of a Matrix
+2. A Strictly Increasing Linked List
