@@ -1,27 +1,17 @@
 /*
-Given a two-dimensional integer list intervals of the form [start, end] representing intervals (inclusive), return their intersection, that is, the interval that lies within all of the given intervals.
-
-You can assume that the intersection will be non-empty.
+Given the head of a singly linked list head, return whether the values of the nodes are sorted in a strictly increasing order.
 
 Constraints
-1 ≤ n ≤ 100,000 where n is the length of intervals
+1 ≤ n ≤ 100,000 where n is the number of nodes in head.
 
-Example 1
-
-Input
-intervals = [
-    [1, 100],
-    [10, 50],
-    [15, 65]
-]
-
-Output
-[15, 50]
+Example 1:
+Input:
+head = [1, 5, 9, 9]
+Output:
+false
 
 Explanation
-Consider the ranges [1, 100], [10, 50], [15, 65] on a line. The range [15, 50] is the only interval that is included by all of them.
-
-*/
+Even though this list is sorted, it's not strictly increasing since 9 is repeated.*/
 
 import java.util.*;
 
