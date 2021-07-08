@@ -8,3 +8,8 @@ My profile name:sree-devi
 3. Unique Integers in Sorted List
 4. Find Local Peaks
 5. Number of Bits
+6. Repeated Addition
+7. Largest Number By Two Times
+8. Anagram Checks
+9. Interval Intersection
+
