@@ -13,4 +13,5 @@ My profile name:sree-devi
 8. Anagram Checks
 9. Interval Intersection
 10. Flip and Invert Matrix
+11. N-Rooks
 
