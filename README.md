@@ -14,4 +14,6 @@ My profile name:sree-devi
 9. Interval Intersection
 10. Flip and Invert Matrix
 11. N-Rooks
+12. Making List Values Equal
+13. Buying cars
 
