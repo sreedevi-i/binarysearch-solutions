@@ -21,5 +21,6 @@ My profile name:sree-devi
 16. Invert Tree
 17. Inverse Factorial
 18. Base 3 to Integer
+19. Check Power Of Two
 
 
