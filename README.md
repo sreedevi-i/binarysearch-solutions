@@ -17,4 +17,9 @@ My profile name:sree-devi
 12. Making List Values Equal
 13. Buying cars
 14. Reverse Words
+15. Search in a Binary Search Tree
+16. Invert Tree
+17. Inverse Factorial
+18. Base 3 to Integer
+
 
