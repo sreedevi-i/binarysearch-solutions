@@ -22,5 +22,9 @@ My profile name:sree-devi
 17. Inverse Factorial
 18. Base 3 to Integer
 19. Check Power Of Two
+20. Count BST Nodes in a Range
+21. Central Linked List
+22. Search in a Virtually Complete Binary Tree
+23. Furthest From Origin
 
 
