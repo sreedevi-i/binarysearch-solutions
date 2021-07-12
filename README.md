@@ -29,6 +29,8 @@ My profile name:sree-devi
 24. Kth Smallest Element
 25. Parantheses Grouping
 26. Detect Voter Fraud
+27. Three Player Coin Game
+28. Balanced Brackets
 
 
 
