@@ -31,6 +31,7 @@ My profile name:sree-devi
 26. Detect Voter Fraud
 27. Three Player Coin Game
 28. Balanced Brackets
+29. Count Nodes in Complete Binary Tree
 
 
 
