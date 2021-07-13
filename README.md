@@ -32,6 +32,9 @@ My profile name:sree-devi
 27. Three Player Coin Game
 28. Balanced Brackets
 29. Count Nodes in Complete Binary Tree
+30. Inorder Traversal
+31. Consecutive Ones
+
 
 
 
