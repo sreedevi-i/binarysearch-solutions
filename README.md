@@ -34,7 +34,9 @@ My profile name:sree-devi
 29. Count Nodes in Complete Binary Tree
 30. Inorder Traversal
 31. Consecutive Ones
-
+32. Mixed Sorting
+33. Generate Primes
+34. Check if Number Is Perfect Square
 
 
 
