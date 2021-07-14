@@ -37,6 +37,9 @@ My profile name:sree-devi
 32. Mixed Sorting
 33. Generate Primes
 34. Check if Number Is Perfect Square
+35. Univalue Tree
+36. Pascal's Triangle
+37. Fixed Point
 
 
 
