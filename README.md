@@ -40,6 +40,8 @@ My profile name:sree-devi
 35. Univalue Tree
 36. Pascal's Triangle
 37. Fixed Point
+38. Unique Ab String
+39. Number of K-Length Sublists with Average at Least Target
 
 
 
