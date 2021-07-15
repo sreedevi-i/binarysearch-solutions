@@ -42,6 +42,10 @@ My profile name:sree-devi
 37. Fixed Point
 38. Unique Ab String
 39. Number of K-Length Sublists with Average at Least Target
+40. Rookie Mistake
+41. Guess the Root
+42. Hamming Distance
+43. Longest Common Prefix
 
 
 
