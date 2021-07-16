@@ -47,5 +47,6 @@ My profile name:sree-devi
 42. Hamming Distance
 43. Longest Common Prefix
 44. Hoppable
+45. Happy Numbers
 
 
