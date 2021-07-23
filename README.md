@@ -52,6 +52,6 @@ My profile name:sree-devi
 47. Remove Duplicates in Linked List
 48. Sum of Two Numbers With Sorted List
 49. K Longest Show Durations
-50. 
+50. Toeplitz Matrix
 
 
