@@ -49,5 +49,7 @@ My profile name:sree-devi
 44. Hoppable
 45. Happy Numbers
 46. Reverse a LinkedList
+47. Remove Duplicates in Linked List
+48. Sum of Two Numbers With Sorted List
 
 
