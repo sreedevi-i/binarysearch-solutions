@@ -60,5 +60,5 @@ My profile name:sree-devi
 55. Smallest Pair Sum with Distance Constraint
 56. Shortest String
 57. Minimum Stack
-
+58. Latin Square
 
