@@ -62,4 +62,5 @@ My profile name:sree-devi
 57. Minimum Stack
 58. Latin Square
 59. Unidirectional Word Search
+60. Ugly Number
 
