@@ -69,4 +69,6 @@ My profile name:sree-devi
 64. Group Integers
 65. Balanced Brackets Sequel
 66. Equalize List Sums with Minimal Updates
+67. Target Number with Operations
+68. Win After Last Round
 
