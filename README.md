@@ -71,4 +71,5 @@ My profile name:sree-devi
 66. Equalize List Sums with Minimal Updates
 67. Target Number with Operations
 68. Win After Last Round
+69. Toeplitz Matrix
 
